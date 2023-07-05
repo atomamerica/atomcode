@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atom McCree 
-- - 👀 I’m interested in learning to code Web3 and understand AI
+- 👀 I’m interested in learning to code Web3 and understand AI
 - 🌱 I’m currently battle testing ChatGPT 4 with Plugins
 - 💞️ I’m looking to collaborate on the future. 
 - 📫 How to reach me: @atomamerica on twitter. 
